@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "645222747464",
+    "project_id": "aqua-gymfit",
+    "storage_bucket": "aqua-gymfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645222747464:android:eb530a6fc2ca4981c9f77d",
+        "android_client_info": {
+          "package_name": "com.example.aquagymfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645222747464-3gpl6d51jo5khm6nkhlgohciu0e5e4ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquagymfit",
+            "certificate_hash": "4067e2b4a1367479bb72b664d34f95f0c3c6ba36"
+          }
+        },
+        {
+          "client_id": "645222747464-c7h4a75qfokfut3gg1bmhlklr3u7461h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquagymfit",
+            "certificate_hash": "fee416199af1634a259633e228bdba6bbe4915c4"
+          }
+        },
+        {
+          "client_id": "645222747464-88jgavliomjhacuvqs74rsm292on3t6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7cM6DXD6yJ3oZksgdm4pD10veTxDuWZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645222747464-88jgavliomjhacuvqs74rsm292on3t6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645222747464-63d75quscvmfq7a1uaqtfrubgsuukhgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aquagymfit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
